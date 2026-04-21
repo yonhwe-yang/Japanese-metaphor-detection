@@ -1,5 +1,6 @@
 # Japanese-metaphor-detection
-code of my dissertation
+prompt list
 
-currently not finished
+neural network code
 
+LLM code
